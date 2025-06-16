@@ -1,0 +1,46 @@
+{
+  "name": "07f49a87-06d3-440c-9b27-6bf0cf39ded8",
+  "displayName": "aurora bay faq",
+  "description": "Details about Aurora bay town",
+  "dataStoreSpec": {
+    "dataStoreConnections": [ {
+      "dataStoreType": "UNSTRUCTURED",
+      "dataStore": "projects/594676763679/locations/us/collections/default_collection/dataStores/aurora-bay-faqs_1750076245736",
+      "documentProcessingMode": "DOCUMENTS",
+      "engineType": "CHAT_ENGINE",
+      "connectorConfig": {
+      
+      },
+      "createTime": {
+        "seconds": 1750076253,
+        "nanos": 816954000
+      },
+      "displayName": "aurora-bay-faqs",
+      "dialogflowAddTime": {
+        "seconds": 1750076833,
+        "nanos": 935000000
+      }
+    } ],
+    "models": {
+      "summarizationModel": {
+      
+      },
+      "rewriterModel": {
+      
+      }
+    },
+    "fallbackPrompt": {
+    
+    },
+    "groundingSettings": {
+    
+    },
+    "payloadSettings": {
+    
+    },
+    "voiceModeSettings": {
+    
+    }
+  },
+  "toolType": "CUSTOMIZED_TOOL"
+}
